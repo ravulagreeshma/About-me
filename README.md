@@ -4,11 +4,11 @@ You can click the Preview link to take a look at your changes.
 --->
 
 ### Greeshma Ravula 
-Junior Web Developer | Data Science Enthusiast | New Graduate 2021 | Open for new opportunities
+Junior Web Developer | Data Science Enthusiast | Grad 2021 | Open for new opportunities
 
 ### 👋 About 
 
-Hi, I’m Greeshma! A recent graduate student from Asian Institute of Technology specialized in Information Management. Data is what drives me. I have been a long-time enthusiastic of Data Science. Over the past two years, I have been working with large datasets from collecting, interpreting, analyzing and visualizing data to building various deep learning models.
+Hi, I’m Greeshma! A graduate student from Asian Institute of Technology specialized in Information Management. Data is what drives me. I have been a long-time enthusiastic of Data Science. Over the past two years, I have been working with large datasets from collecting, interpreting, analyzing and visualizing data to building various deep learning models.
 
 My diligent and dedicated attitude towards my work and responsibilities with the potential to learn quickly and self-start has always keeps me driven and on my feet, which makes me a good fit for an opportunity to efficiently work in a fast-paced IT environment
 
