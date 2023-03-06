@@ -19,7 +19,7 @@ Paving my path while working towards advancing my technical skill set in leverag
 
 - Programming Languages: Python
 - Database: SQL- MySQL, PostgreSQL ; NoSQL:Cassandra, MongoDB
-- Web Technologies and Frameworks: HTML5, CSS3, JavaScript, jQuery, Node.js, Express.js,REST, APIs, ReactJS
+- Web Technologies and Frameworks: HTML5, CSS3, JavaScript
 - Platforms: Windows 10, Linux (Ubuntu)
 - Analytics/Visualization: Tableau, Microsoft Excel
 - Machine Learning frameworks and libraries: Pandas, Numpy, Matplotlib,Pytorch
